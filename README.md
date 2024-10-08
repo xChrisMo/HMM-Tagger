@@ -19,8 +19,7 @@ This project showcases the use of the Viterbi algorithm, one of the plenty appli
 1. Clone this repository
 2. Ensure you have all the required libraries and modules installed
 3. Follow the steps in the `HMM_warmup.ipynb` notebook in your preferred environment for a base understanding
-4. Implement the `n-gram models` and `base-hmm-tagger` in the `HMM_Tagger.ipynb`
-5. Run the cells to reproduce the analysis
+4. Implement the `n-gram` models and `base-hmm-tagger` in the `HMM_Tagger.ipynb` by rerunning the cells
 
 ## Further Reading
 
