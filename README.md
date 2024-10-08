@@ -19,11 +19,11 @@ This project showcases the use of the Viterbi algorithm, one of the plenty appli
 1. Clone this repository
 2. Ensure you have all the required libraries and modules installed
 3. Follow the steps in the `HMM_warmup.ipynb` notebook in your preferred environment for a base understanding
-4. Implement the `n-gram` models and `base-hmm-tagger` in the `HMM_Tagger.ipynb` by rerunning the cells
+4. Implement the `n-gram` models and `base-hmm-tagger` in the `HMM_Tagger.ipynb` notebook by rerunning the cells
 
 ## Further Reading
 
-For a more comprehensive explanation, refer to this [post](https://medium.com/towards-data-science/hidden-markov-models-explained-with-a-real-life-example-and-python-code-2df2a7956d65).
+For a more comprehensive explanation, refer to this [post from Medium](https://medium.com/towards-data-science/hidden-markov-models-explained-with-a-real-life-example-and-python-code-2df2a7956d65).
 
 ## Licensing
 
